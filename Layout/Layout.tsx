@@ -36,7 +36,10 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
           content="Himpunan Pemuda Pemudi Nengkol"
         />
 
-        <meta property="og:image" content="/assets/icons/icon.ico" />
+        <meta
+          property="og:image"
+          content="https://i.ibb.co.com/B6n1bpC/file.jpg"
+        />
 
         {/* <!-- Og Type -->
 <meta property="og:type" content="article" /> */}
