@@ -20,8 +20,8 @@ const Home: NextPage = ({ projectsArray, iconsArray }: any) => {
   }, []);
   return (
     <Layout
-      desc={`GANESA - Gabungan Anak Nengkol Salawasna`}
-      title="Himpunan Pemuda Pemudi Nengkol"
+      desc={`Himpunan Pemuda Pemudi Nengkol`}
+      title="GANESA - Gabungan Anak Nengkol Salawasna"
     >
       <Box
         sx={{
