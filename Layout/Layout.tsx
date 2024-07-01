@@ -15,9 +15,7 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
   return (
     <>
       <Head>
-        <title>
-          {title || "Vito Medlej Personal Portfolio | Lebanese Web Developer"}
-        </title>
+        <title>{title || "GANESA - Gabungan Anak Nengkol Salawasna"}</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link
           rel="shortcut icon"
@@ -31,14 +29,14 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
 
         <meta
           property="og:title"
-          content="Vito Medlej Personal Portfolio | Lebanese Web Developer"
+          content="GANESA - Gabungan Anak Nengkol Salawasna"
         />
 
         <meta property="og:url" content="https://elvito.netlify.app" />
 
         <meta
           property="og:description"
-          content="Vito Medlej | Web Developer based in Lebanon. And this is my Portfolio and my blog "
+          content="GANESA - Gabungan Anak Nengkol Salawasna"
         />
 
         <meta
@@ -54,11 +52,11 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
         <meta name="robots" content="index, follow" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         {/* <meta name="description" content="Site Meta Description" /> */}
-        <meta name="keywords" content="Personal Portfolio" />
-        <meta name="author" content="Vito Medlej" />
+        <meta name="keywords" content="ganesa" />
+        <meta name="author" content="raka" />
         <meta name="publisher" content="publisher" />
         <meta name="copyright" content="copyright" />
-        <meta name="page-topic" content="Web Development | Blog" />
+        <meta name="page-topic" content="Blog" />
         <meta name="page-type" content="Blogging" />
         <meta name="audience" content="Everyone" />
         {/* <!-- Facebook, whatsapp, instagram, twitter and other popular social media --> */}
