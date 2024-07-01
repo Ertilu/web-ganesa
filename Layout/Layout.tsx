@@ -33,7 +33,7 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
 
         <meta
           property="og:description"
-          content="GANESA - Gabungan Anak Nengkol Salawasna"
+          content="Himpunan Pemuda Pemudi Nengkol"
         />
 
         <meta property="og:image" content="/assets/icons/icon.ico" />
