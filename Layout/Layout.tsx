@@ -36,10 +36,7 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
           content="GANESA - Gabungan Anak Nengkol Salawasna"
         />
 
-        <meta
-          property="og:image"
-          content="https://res.cloudinary.com/dwcu3wcol/image/upload/v1658929513/log-removebg-preview_fygpsd.png"
-        />
+        <meta property="og:image" content="/assets/icons/icon.ico" />
 
         {/* <!-- Og Type -->
 <meta property="og:type" content="article" /> */}
