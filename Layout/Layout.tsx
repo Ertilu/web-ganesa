@@ -21,7 +21,7 @@ const Layout = ({ navbarSx, title, children, desc }: ILayout) => {
 
         <meta
           name="description"
-          content={`${desc || "GANESA - Gabungan Anak Nengkol Salawasna"}`}
+          content={`${desc || "Himpunan Pemuda Pemudi Nengkol Salawasna"}`}
         />
 
         <meta
